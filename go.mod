@@ -1,3 +1,3 @@
-module github.com/loong/go-concurrency-exercises
+module github.com/paniccaaa/go-concurrency-exercises
 
-go 1.19
+go 1.23.0
